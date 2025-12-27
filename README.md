@@ -19,7 +19,8 @@ To analyze mobile sales data and create an interactive Power BI dashboard that h
 - Interactive filters
 
 ## 🖼 Dashboard Preview
-![Overall Dashboard]((https://github.com/Ashwini-27529/Mobile-Sales-Data/blob/main/Images/Screenshot%202025-12-25%20190826.png))
+## 🖼 Dashboard Preview
+![Overall Dashboard](Images/Screenshot%202025-12-25%20190826.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file

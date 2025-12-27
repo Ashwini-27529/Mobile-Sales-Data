@@ -19,7 +19,6 @@ To analyze mobile sales data and create an interactive Power BI dashboard that h
 - Interactive filters
 
 ## 🖼 Dashboard Preview
-## 🖼 Dashboard Preview
 ![Overall Dashboard](Images/Screenshot%202025-12-25%20190826.png)
 
 ## 🚀 How to Use
